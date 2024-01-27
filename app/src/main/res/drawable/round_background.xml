@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="5dp" /> <!-- Adjust the radius as needed for your desired roundness -->
+            <solid android:color="#C8E64A19" /> <!-- Replace with your desired background color -->
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/back_button"
+        android:gravity="center" />
+</layer-list>

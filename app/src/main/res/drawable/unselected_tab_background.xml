@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+     <!-- Original background color -->
+    <corners android:radius="0dp" /> <!-- No rounded corners for unselected tabs -->
+</shape>

@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#C8E64A19" /><!-- color for the selected tab background -->
+    <corners android:radius="50dp" /> <!-- Adjust the radius as needed for rounded corners -->
+</shape>
